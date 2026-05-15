@@ -61,9 +61,7 @@ export DEEPSEEK_API_KEY="你的真实API Key"
 ```python
 DEEPSEEK_API_KEY = "你的DeepSeek API Key"
 ```
-将 `YOUR_API_KEY_HERE` 替换为你的真实 API Key（注意不要上传到公开仓库）。
-
-> ⚠️ **安全提醒**：如果你的仓库是公开的，千万不要把真实 API Key 硬编码提交到 GitHub。推荐始终使用环境变量。
+将 `你的DeepSeek API Key` 替换为你的真实 API Key。
 
 ### 5. 运行脚本
 ```bash
