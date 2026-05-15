@@ -1,0 +1,5 @@
+# Ignore API keys and local outputs
+outputs/
+input.txt
+.env
+config.py
